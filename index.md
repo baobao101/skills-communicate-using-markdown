@@ -1,6 +1,6 @@
 # Hi this is a markdown header
 ### Hi this is a smaller header
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Ziggy](https://drive.google.com/file/d/1LU95bU-a-aVlxKvNNied6PB6Q9YqPSwP/view?usp=sharing)
 
 ##### git code
 ```
@@ -18,3 +18,8 @@ var myVar = "Hello, world!";
 a = "Hello, world";
 print(a);
 ```
+
+##### Checklist of Tasks
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
